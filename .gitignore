@@ -1,3 +1,6 @@
 chinook.db
 TMDB.db
 database
+*.csv
+*.pdf
+lahmansbaseballdb-backup
